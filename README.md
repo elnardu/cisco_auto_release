@@ -9,7 +9,7 @@ If you have access to `data.cs.purdue.edu`, you can install this script there.
 
 1. Install python 3 (it is preinstalled on `data`)
 2. `pip3 install requests`
-3. `mkdir ~/scripts/cisco/ && cd ~/scripts/cisco/ && wget https://raw.githubusercontent.com/elnardu/cisco_auto_release/master/cisco_auto_release.py`
+3. `mkdir -p ~/scripts/cisco/ && cd ~/scripts/cisco/ && wget https://raw.githubusercontent.com/elnardu/cisco_auto_release/master/cisco_auto_release.py`
 4. `chmod +x ~/scripts/cisco/cisco_auto_release.py`
 5. `~/scripts/cisco/cisco_auto_release.py`
    * Follow the instructions on screen
